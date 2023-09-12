@@ -1,0 +1,30 @@
+body {
+    background-color: #fff;
+    font-size: 16px;
+  }
+  .small-text {
+    font-size: 12px;
+  }
+  .images {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+  }
+  .image-wrapper {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(41, 41, 41);
+  }
+  #featured-article-button {
+    margin: 8px 0 24px;
+  }
+  .image {
+    width: 200px;
+    height: 200px !important;
+  }
+
+  .footer {
+    margin-top: 32px;
+    border-top: 2px solid #000;
+  }
